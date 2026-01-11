@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<!--
-**semaphor/semaphor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+For now have a look at my personal website [simon.lueke.space](https://simon.lueke.space/).
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
