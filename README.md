@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-For now have a look at my personal website [simon.lueke.space](https://simon.lueke.space/).
+I'm leaving here step by step. I'll post some redirecting links here, someday. For now you may have a look at my personal website [simon.lueke.space](https://simon.lueke.space/).
+
 
 <!--
 Here are some ideas to get you started:
